@@ -1,0 +1,82 @@
+{
+    "episodes" : [
+    {
+        "id" : 1,
+        "season": "Season 1",
+        "episode": "Episode 1",
+        "url": "https://www.disneyplus.com/video/79529cd0-f1cf-4eec-8b1d-ea1e1b76043b"
+    },
+    {
+        "id" : 2,
+        "season": "Season 1",
+        "episode": "Episode 2",
+        "url": "https://www.disneyplus.com/video/250ca502-751e-4b37-a465-f8b518d76ced"
+    },
+    {
+        "id" : 3,
+        "season": "Season 1",
+        "episode": "Episode 3",
+        "url": "https://www.disneyplus.com/video/0e8e7f27-0ab2-495f-8254-d99d3c53ce4f"
+    },
+    {
+        "id": 4,
+        "season": "Season 1",
+        "episode": "Episode 4",
+        "url": "https://www.disneyplus.com/video/5e837a36-5db0-451c-82d3-0cca1490f784"
+    },
+    {
+        "id": 5,
+        "season": "Season 1",
+        "episode": "Episode 5",
+        "url": "https://www.disneyplus.com/video/051c32fc-0d9a-4bee-a960-9c6ab85eccdb"
+    },
+    {
+        "id": 6,
+        "season": "Season 1",
+        "episode": "Episode 6",
+        "url": "https://www.disneyplus.com/video/d7502c3a-a254-451a-bdc0-b57e67b1ace4"
+    },
+    {
+        "id": 7,
+        "season": "Season 1",
+        "episode": "Episode 7",
+        "url": "https://www.disneyplus.com/video/8d4aad23-2222-4980-af9b-729bc8159898"
+    },
+    {
+        "id": 8,
+        "season": "Season 1",
+        "episode": "Episode 8",
+        "url": "https://www.disneyplus.com/video/8868eddb-224d-4df4-93c2-145abd60270d"
+    },
+    {
+        "id": 9,
+        "season": "Season 1",
+        "episode": "Episode 9",
+        "url": "https://www.disneyplus.com/video/6303b4c8-5e65-46a0-bd51-6460bba86e8e"
+    },
+    {
+        "id": 10,
+        "season": "Season 1",
+        "episode": "Episode 10",
+        "url": "https://www.disneyplus.com/video/084078a6-9f7e-4468-8b33-48ce7fb5c7c0"
+    },
+    {
+        "id": 11,
+        "season": "Season 1",
+        "episode": "Episode 11",
+        "url": "https://www.disneyplus.com/video/01937c40-fe95-4e8f-aa0d-3933ee3ba378"
+    },
+    {
+        "id": 12,
+        "season": "Season 1",
+        "episode": "Episode 12",
+        "url": "https://www.disneyplus.com/video/829bc530-f7b3-459d-bac1-dc92672c9138"
+    },
+    {
+        "id": 13,
+        "season": "Season 1",
+        "episode": "Episode 13",
+        "url": "https://www.disneyplus.com/video/332f91c5-2de7-40d2-ac02-9de76820f4f6"
+    }
+]
+}
