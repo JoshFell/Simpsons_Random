@@ -9,7 +9,7 @@ with open('episodes.json') as f:
 #Chooses an episode of "The Simpsons" randomly and opens the url
 def play_episode():
     #Generate a random number from 1 - x. Total numbero f simpsons episodes is 722 :O
-    episode_num = randrange(1, 14)
+    episode_num = randrange(1, 36)
 
     for episode in data['episodes']:
         if (episode_num == episode['id']):
@@ -19,3 +19,12 @@ def play_episode():
             webbrowser.open(episode['url'])
 
 play_episode()
+
+"""
+=====Things that can be added=====
+-watched boolean in json file. No duplicate episodes.
+-Ability to choose which seasons episodes can be picked from
+-GUI
+-...
+==================================
+"""
